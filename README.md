@@ -60,13 +60,13 @@ MySQL services.
 
 ### Screenshots
 
-![Screenshot of patient Registration](https://github.com/ugosonic/Image_management_system/blob/main/Screenshot%20(238).png?raw=true)
+![Screenshot of patient Registration](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(238).png?raw=true)
 Patient Registration
 
-![Screenshot of Login Page](https://github.com/ugosonic/Image_management_system/screenshot/blob/main/Screenshot%20(239).png?raw=true)
+![Screenshot of Login Page](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(239).png?raw=true)
 Login Page
 
-![Screenshot of Radiologist dashboard](https://github.com/ugosonic/Image_management_system/screenshot/blob/main/Screenshot%20(240).png?raw=true)
+![Screenshot of Radiologist dashboard](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(240).png?raw=true)
 Radiologist dashboard
 
 
