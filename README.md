@@ -69,6 +69,41 @@ Login Page
 ![Screenshot of Radiologist dashboard](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(240).png?raw=true)
 Radiologist dashboard
 
+![Screenshot of Create image category and subcategories](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(241).png?raw=true)
+Create image categories and subcategories
 
+![Screenshot of All Patient Record](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(242).png?raw=true)
+All Patient Record
 
+![Screenshot of Patient Record Details](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(243).png?raw=true)
+Patient Record Details
 
+![Screenshot of Request RRadiology Test](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(244).png?raw=true)
+Request Radiology Test
+
+![Screenshot of Radiology Request](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(245).png?raw=true)
+Radiology Request
+
+![Screenshot of Radiology Request Details](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(246).png?raw=true)
+Radiology Request Details
+
+![Screenshot of All Requested Tests](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(247).png?raw=true)
+All Requested Tests
+
+![Screenshot of Upload Radiology Test](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(248).png?raw=true)
+Upload Radiology Test
+
+![Screenshot of All Uploaded Images](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(249).png?raw=true)
+All Uploaded Images 
+
+![Screenshot of currency settings](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(250).png?raw=true)
+Currency Settings
+
+![Screenshot of Staff Registration](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(251).png?raw=true)
+Staff Registration 
+
+![Screenshot of Patient Dashboard](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(253).png?raw=true)
+Patient Dashboard
+
+![Screenshot of Patient invoice](https://github.com/ugosonic/Image_management_system/blob/main/screenshots/Screenshot%20(254).png?raw=true)
+Patient invoice
