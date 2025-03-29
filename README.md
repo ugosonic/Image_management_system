@@ -56,3 +56,9 @@ MySQL services.
 - A full walkthrough of system features is provided in the recording.
 - To debug, confirm that the Apache and MySQL services are running.
 
+---
+
+### Screenshots
+
+![Screenshot of patient Registration](https://github.com/ugosonic/Image_management_system/blob/main/Screenshot%20(238).png?raw=true)
+
