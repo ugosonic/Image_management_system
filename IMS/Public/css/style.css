@@ -1,0 +1,200 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/*success*/
+.alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+/*navbar*/
+/* Customize the navbar background color and link hover states */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.nav-link:hover {
+    color: #007bff;
+}
+
+/*CRUD*/
+/* Custom View Button */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* Custom Edit Button */
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #212529;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+}
+
+/* Custom Delete Button */
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+/* Custom Create Button */
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+
+.form-container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #5cb85c;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+/* sidebar*/
+
+/* Some styling for the sidebar */
+#sidebar-wrapper {
+  width: 100px;
+  background-color: #f8f9fa;
+  /* Make it take full height if you want: */
+  min-height: 100vh;
+  text-align: center;
+  border-right: 1px solid #ccc;
+}
+
+#sidebar-profile {
+  text-align: center;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+#sidebar-profile img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
+#sidebar-profile .user-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+#sidebar-profile .user-id, 
+#sidebar-profile .user-group {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.sidebar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0.5rem;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.sidebar-item i {
+  font-size: 2rem;
+}
+
+.sidebar-item.home i { color: #007bff; }      
+.sidebar-item.logout i { color: #dc3545; }    
+.sidebar-item.patient i { color: #17a2b8; }   
+.sidebar-item.doctor i { color: #28a745; }    
+.sidebar-item.radiologist i { color: #ffc107; }
+.sidebar-item.invoice i { color: #6610f2; }    
+.sidebar-item.pay i { color: #fd7e14; }        
+.sidebar-item.records i { color: #6f42c1; }    
+.sidebar-item.setting i { color: #e83e8c; }    
+
+.sidebar-item span {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Hover effect */
+.sidebar-item:hover {
+  background-color: #e2e6ea;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+  color: #000;
+  text-decoration: none;
+}
