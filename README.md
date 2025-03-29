@@ -1,7 +1,6 @@
-KINGSLEY UGONNA AGUAGWA
+KINGSLEY AGUAGWA
 MSc Software Engineering with Management Studies
 
-K2363903
 
 
 ### README: Installing a PHP Program Developed With XAMPP
